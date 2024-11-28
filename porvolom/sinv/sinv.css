@@ -1,0 +1,219 @@
+.navbar {
+    padding-bottom: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 69px;
+}
+
+.navbar1 {
+    padding-right: 130px;
+
+}
+
+.logo {
+    padding-left: 130px;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    padding-right: 20px;
+}
+
+
+.div1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.h1-1{
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+}
+.p1{
+font-size: 24px;
+font-weight: 400;
+line-height: 29.05px;
+}
+
+h1{
+    font-family: "Inter", sans-serif;
+}
+
+
+
+.div0{
+    padding:100px ;
+}
+
+
+
+
+.f5-jadvali{
+    width: 100%
+    
+    justify-content: space-between;
+}
+.ism{
+font-size: 24px;
+font-weight: 800;
+line-height: 29.05px;
+}
+.divo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top-left-radius:  30px;
+    border-top-right-radius:  30px;
+    background-color: #EDEDED;
+}
+.akaunt{
+    font-size: 24px;
+font-weight: 800;
+line-height: 29.05px;
+}
+.Websayt{
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 29.05px;   
+}
+
+
+
+.div0{
+    text-align: center;
+}
+
+
+
+
+
+.alohida{
+    gap: 200px;
+    background-color: #EDEDED;
+    border-radius: 8px;
+}
+.fa-user{
+    margin-left: 10px;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.div2{
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+}
+.img1{
+    width: 88px;
+    border-radius: 10px;
+}
+.ism1{
+font-size: 24px;
+font-weight: 400;
+line-height: 29.05px;
+
+}
+.akaunt1{
+font-size: 20px;
+font-weight: 400;
+line-height: 24.2px;
+
+
+}
+.button1{
+    border: none;
+    background-color: white;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+
+
+}
+
+
+
+
+
+
+.div3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #EDEDED;
+    gap: 100px;
+}
+.akaunt1{
+font-size: 24px;
+font-weight: 400;
+line-height: 29.05px;
+
+}
+.tuta{
+    margin-left: 250px;
+font-size: 20px;
+font-weight: 400;
+line-height: 24.2px;
+}
+.pointer{
+    border: none;
+    background-color:#EDEDED;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+
+}
+.class{
+    width: 100px;
+    border-radius: 8px;
+}
+
+.img-1{
+    width: 490px;
+    height: 367px;
+    border-radius: 20px ; 
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+.img-2{
+    width: 490px;
+    height: 612.5px;
+    border-radius: 20px;    
+    
+}
+
+.div-img1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+justify-content: center;
+}
+
+.div-Rasmli{
+width: 100%;
+text-align: center;
+}
+
+.img5{
+    margin: 20px;
+    width: 500px;
+    height: 600px;
+border-radius: 50px;
+}

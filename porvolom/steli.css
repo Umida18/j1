@@ -1,0 +1,141 @@
+
+
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter", sans-serif;
+}
+
+
+
+.navbar {
+    padding-bottom: 157px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 69px;
+}
+
+.navbar1 {
+    padding-right: 130px;
+
+}
+
+.logo {
+    padding-left: 130px;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    padding-right: 20px;
+}
+
+
+
+.div1 {
+    width: 1020px;
+    height: 385px;
+    padding-left: 300px;
+    padding-bottom: 127px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sozlar {}
+
+
+.Salom {
+    font-size: 64px;
+    padding-bottom: 20px;
+}
+
+.p1 {
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.button1 {
+    width: 168px;
+    height: 44px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+.Abdulaziz {
+    width: 388px;
+    height: 385px;
+    border-radius: 30%;
+    background-size: cover;
+}
+
+
+
+.loy {
+    text-align: center;
+    padding: 90px;
+}
+
+
+
+.img1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    width: 100%;
+    padding-bottom: 300px;
+}
+
+.css {
+    display: block;
+    font-size: 26px;
+    color: #000000;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+.p2 {
+    font-size: 18px;
+    color: #141414;
+    padding-bottom: 24px;
+}
+
+.button2 {
+    padding: 8px 20px 8px 20px;
+    border-radius: 60px;
+    border: none;
+    background: #EBEBEB;
+
+}
+
+.button3 {
+    padding: 8px 20px 8px 20px;
+    border-radius: 60px;
+    border: none;
+    background: #EBEBEB;
+
+}
+
+.button4 {
+    padding: 8px 20px 8px 20px;
+    border-radius: 60px;
+    border: none;
+    background: #EBEBEB;
+
+}
+
+.button5 {
+    padding: 8px 20px 8px 20px;
+    border-radius: 60px;
+    border: none;
+    background: #EBEBEB;
+
+}
+/* oilam css */

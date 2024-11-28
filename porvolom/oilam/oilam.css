@@ -1,0 +1,102 @@
+.navbar {
+    padding-bottom: 157px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 69px;
+}
+
+.navbar1 {
+    padding-right: 130px;
+
+}
+
+.logo {
+    padding-left: 130px;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    padding-right: 20px;
+}
+
+
+.img-div {
+    width: 100%;
+
+
+}
+
+.div1 {
+    width: 1020px;
+    height: 385px;
+    padding-left: 300px;
+    padding-bottom: 127px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.Salom {
+    font-size: 64px;
+    padding-bottom: 20px;
+}
+
+.p1 {
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+
+
+.div-img8{
+  position: relative;
+}
+
+.div-img9{
+    width: 388px;
+    height: 385px;
+    border-radius: 30%;
+    border: 5px solid #000000;
+      position: absolute;
+      z-index: -1;
+bottom: -30px ;
+left:-30px ;
+}
+
+
+
+
+
+
+
+.Abdulaziz {
+    width: 388px;
+    height: 385px;
+    border-radius: 30%;
+    background-size: cover;
+    
+}
+
+.img1{
+    width: 490px;
+    height: 367px;
+    border-radius: 20px ; 
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+.img2{
+    width: 490px;
+    height: 612.5px;
+    border-radius: 20px;    
+}
+
+.div-img5{
+  padding: 0px 500px;
+}
